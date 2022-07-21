@@ -36,8 +36,7 @@ a:hover {
 .text-center_footer {
   text-align: center;
   font-weight: bold;
-  padding: 1.5em;
-  margin-block-start: 1.5em;
+  padding-top: 1.5em;
   font-size: 14px;
 }
 .bloc {
@@ -802,10 +801,6 @@ p {
   height: 60px;
   margin: auto auto auto auto;
 }
-.row_footer {
-  margin-right: 0;
-  margin-left: 0;
-}
 
 h2 {
   font-size: 22px;
@@ -991,7 +986,7 @@ h1 {
   .text-center_footer {
     text-align: center;
     font-weight: bold;
-    padding: 1.5em;
+    padding-top: 1.5em;
     font-size: 14px;
   }
 }
