@@ -756,6 +756,9 @@ a {
   font-size: 12px;
 }
 
+.a_social {
+  display: none;
+}
 .statement-bloc-text {
   line-height: 26px;
   font-style: italic;
